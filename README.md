@@ -76,7 +76,7 @@ python app.py
 ```
 
 ## 7. Integrantes
-- Bejamin Araya
+- Benjamin Araya
 - Guillermo Barañado
 - Fernando Rodríguez
 
