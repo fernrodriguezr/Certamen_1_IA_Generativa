@@ -1,0 +1,3 @@
+Las fotografías originales no venían adjuntas; los archivos de ejemplo pueden extraerse de solarcheck.zip al importar los pesos.
+No publiques ejemplos sin confirmar condiciones de licencia y permiso de redistribución de Kaggle.
+La app NO necesita ejemplos para funcionar: puede analizar fotografías subidas por el usuario.
